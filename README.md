@@ -1,22 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312e81,50:7c3aed,100:4338ca&amp;height=220&amp;section=header&amp;text=Varun%20Sharma&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineering%20%7C%20Applied%20AI%20%7C%20Cloud&amp;descSize=18&amp;descAlignY=60" alt="Varun Sharma — Software Engineering, Applied AI, and Cloud" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:6347a8,100:5277c3&amp;height=220&amp;section=header&amp;text=Varun%20Sharma&amp;fontSize=52&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=38&amp;desc=Software%20Engineering%20%7C%20Applied%20AI%20%7C%20Cloud&amp;descSize=18&amp;descAlignY=60" alt="Varun Sharma — Software Engineering, Applied AI, and Cloud" />
 
-<a href="https://github.com/varunsharma101"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1100&amp;color=A78BFA&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+useful+software+from+complex+systems;Cloud+infrastructure+%C2%B7+AI+%C2%B7+Full-stack;UC+San+Diego+%C2%B7+Mathematics+%26+Computer+Science" alt="Cloud infrastructure, AI, and full-stack engineering" /></a>
+<a href="https://github.com/varunsharma101"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=3200&amp;pause=1100&amp;color=BF91F3&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Building+useful+software+from+complex+systems;Cloud+infrastructure+%C2%B7+AI+%C2%B7+Full-stack;UC+San+Diego+%C2%B7+Mathematics+%26+Computer+Science" alt="Cloud infrastructure, AI, and full-stack engineering" /></a>
 
-![UC San Diego](https://img.shields.io/badge/UC_San_Diego-Math_%26_CS-6d28d9?style=flat-square)
-![GPA](https://img.shields.io/badge/GPA-3.9_%2F_4.0-4338ca?style=flat-square)
-![Graduation](https://img.shields.io/badge/Graduating-March_2027-7c3aed?style=flat-square)
-![Location](https://img.shields.io/badge/Location-Milpitas%2C_CA-312e81?style=flat-square)
+![UC San Diego](https://img.shields.io/badge/UC_San_Diego-Math_%26_CS-7957c2?style=flat-square)
+![GPA](https://img.shields.io/badge/GPA-3.9_%2F_4.0-5277c3?style=flat-square)
+![Graduation](https://img.shields.io/badge/Graduating-March_2027-8957c7?style=flat-square)
+![Location](https://img.shields.io/badge/Location-Milpitas%2C_CA-414868?style=flat-square)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-geometric.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-4338ca?style=for-the-badge)](https://www.linkedin.com/in/varun-c-sharma/)
-[![Email](https://img.shields.io/badge/Email-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vas001@ucsd.edu)
-[![GitHub](https://img.shields.io/badge/GitHub-312e81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsharma101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7957c2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-geometric.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5277c3?style=for-the-badge)](https://www.linkedin.com/in/varun-c-sharma/)
+[![Email](https://img.shields.io/badge/Email-8957c7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vas001@ucsd.edu)
+[![GitHub](https://img.shields.io/badge/GitHub-414868?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsharma101)
 
-![Profile views](https://komarev.com/ghpvc/?username=varunsharma101&color=7c3aed&style=flat-square&label=Profile+views)
-[![Followers](https://img.shields.io/github/followers/varunsharma101?style=flat-square&color=6d28d9&label=Followers)](https://github.com/varunsharma101?tab=followers)
-[![Stars](https://img.shields.io/github/stars/varunsharma101?style=flat-square&color=4338ca&label=Stars)](https://github.com/varunsharma101?tab=repositories)
+![Profile views](https://komarev.com/ghpvc/?username=varunsharma101&color=8957c7&style=flat-square&label=Profile+views)
+[![Followers](https://img.shields.io/github/followers/varunsharma101?style=flat-square&color=7957c2&label=Followers)](https://github.com/varunsharma101?tab=followers)
+[![Stars](https://img.shields.io/github/stars/varunsharma101?style=flat-square&color=5277c3&label=Stars)](https://github.com/varunsharma101?tab=repositories)
 
 </div>
 
@@ -208,7 +208,7 @@ No certifications listed. My applied experience and academic recognition are det
 
 ## Coding Profiles
 
-[![GitHub Projects](https://img.shields.io/badge/GitHub-Explore_My_Code-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsharma101?tab=repositories)
+[![GitHub Projects](https://img.shields.io/badge/GitHub-Explore_My_Code-7957c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsharma101?tab=repositories)
 
 Additional coding-platform profiles are not listed.
 
@@ -216,11 +216,11 @@ Additional coding-platform profiles are not listed.
 
 ## GitHub Analytics
 
-[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarunsharma101&query=%24.public_repos&label=Public%20repositories&color=6d28d9&style=for-the-badge)](https://github.com/varunsharma101?tab=repositories)
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarunsharma101&query=%24.public_repos&label=Public%20repositories&color=7957c2&style=for-the-badge)](https://github.com/varunsharma101?tab=repositories)
 
 <div align="center">
 
-<a href="https://github.com/varunsharma101"><img width="49%" src="https://streak-stats.demolab.com/?user=varunsharma101&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=818CF8&amp;currStreakLabel=A78BFA" alt="Varun's GitHub contribution streak" /></a>
+<a href="https://github.com/varunsharma101"><img width="49%" src="https://streak-stats.demolab.com/?user=varunsharma101&amp;theme=tokyonight&amp;hide_border=false&amp;border=414868&amp;background=1A1B27&amp;ring=BF91F3&amp;fire=70A5FD&amp;currStreakLabel=BF91F3" alt="Varun's GitHub contribution streak" /></a>
 
 <a href="https://github.com/varunsharma101?tab=repositories"><img width="45%" src="./profile/top-langs.svg" alt="Languages represented in public repositories" /></a>
 
@@ -232,7 +232,7 @@ Additional coding-platform profiles are not listed.
 
 <div align="center">
 
-<a href="https://github.com/varunsharma101"><img width="100%" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=varunsharma101&amp;theme=discord&amp;no-frame=true&amp;no-bg=true&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="GitHub activity trophies" /></a>
+<a href="https://github.com/varunsharma101"><img width="100%" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=varunsharma101&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="GitHub activity trophies" /></a>
 
 </div>
 
@@ -240,15 +240,15 @@ Additional coding-platform profiles are not listed.
 
 ## Contribution Activity
 
-[View my live contribution calendar and recent activity on GitHub →](https://github.com/varunsharma101?tab=overview)
-
----
-
-## Contribution Snake
-
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-contribution-grid-snake.svg?v=1)
+<a href="https://github.com/varunsharma101?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/activity.svg" alt="Varun's contribution activity over the last 31 days" /></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake.svg" />
+  <img width="100%" alt="Purple snake moving through Varun's GitHub contribution graph" src="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake-dark.svg" />
+</picture>
 
 </div>
 
@@ -275,10 +275,10 @@ open_to:
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-Let%27s_Connect-7c3aed?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vas001@ucsd.edu)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Sharma-4338ca?style=for-the-badge)](https://www.linkedin.com/in/varun-c-sharma/)
-[![GitHub](https://img.shields.io/badge/GitHub-varunsharma101-312e81?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsharma101)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-6d28d9?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-geometric.vercel.app)
+[![Email](https://img.shields.io/badge/Email-Let%27s_Connect-8957c7?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vas001@ucsd.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Varun_Sharma-5277c3?style=for-the-badge)](https://www.linkedin.com/in/varun-c-sharma/)
+[![GitHub](https://img.shields.io/badge/GitHub-varunsharma101-414868?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsharma101)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore_My_Work-7957c2?style=for-the-badge&logo=vercel&logoColor=white)](https://portfolio-geometric.vercel.app)
 
 </div>
 
@@ -288,6 +288,6 @@ open_to:
 
 *Build with clarity. Measure the result. Make the next iteration better.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:312e81,50:7c3aed,100:4338ca&amp;height=110&amp;section=footer" alt="Purple and indigo wave footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1a1b27,50:6347a8,100:5277c3&amp;height=110&amp;section=footer" alt="Purple and indigo wave footer" />
 
 </div>
