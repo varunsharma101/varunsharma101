@@ -87,11 +87,11 @@ A conversational scheduling application that matches patients with therapists ba
 | Stack | React, Supabase, OpenAI API, Google Calendar API |
 | Scale | Patient-facing chatbot and administrative dashboard |
 | Performance | Real-time conversational responses; no published latency benchmark |
-| Security | Supabase Auth and Google OAuth integration, as documented in the repository |
-| Impact | Automated appointment booking and centralized inquiries, sessions, availability, and conflict detection |
+| Security | Prototype; authentication and access controls need review before production use |
+| Impact | Explores conversational patient intake, therapist matching, and calendar booking workflows |
 | Repository | [View source](https://github.com/varunsharma101/healthcare-chatbot) |
 
-Built in May 2025, the application uses OpenAI function calling for structured matching decisions and Google Calendar integration for appointment scheduling. The admin dashboard brings booking and availability workflows into one interface.
+Built in May 2025, this prototype combines conversational intake, Supabase-backed therapist records, and Google Calendar integration. The current implementation parses assistant responses as text; scheduling needs further work before production use.
 
 </details>
 
@@ -123,7 +123,7 @@ An application that turns an MP4 recording into an editable PowerPoint through t
 | Stack | Python, FastAPI, React, Whisper, OpenAI API, moviepy, python-pptx |
 | Scale | End-to-end video upload, transcript review, slide outline, and presentation export |
 | Performance | Job progress tracking throughout processing; no published throughput benchmark |
-| Security | Whisper transcription runs locally; transcript text is sent to OpenAI for outlining |
+| Security | Audio is sent to the OpenAI transcription API; transcript text is sent for slide outlining |
 | Impact | Automates the path from recorded content to an editable slide deck |
 | Repository | [View source](https://github.com/varunsharma101/voice-to-slide) |
 

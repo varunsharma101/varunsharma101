@@ -1,0 +1,44 @@
+name: Profile visibility
+run-name: Set profile visibility to ${{ inputs.visibility }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      visibility:
+        description: Show the profile README?
+        type: choice
+        required: true
+        default: 'on'
+        options:
+          - 'on'
+          - 'off'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-visibility
+  cancel-in-progress: false
+
+jobs:
+  toggle:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+      - name: Set profile visibility
+        env:
+          PROFILE_VISIBILITY: ${{ inputs.visibility }}
+        run: python3 .github/scripts/profile_visibility.py "$PROFILE_VISIBILITY"
+      - name: Save visibility choice
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if ! git diff --cached --quiet; then
+            git commit -m "Update profile visibility"
+            git pull --rebase origin main
+            git push origin main
+          fi
