@@ -216,9 +216,10 @@ Additional coding-platform profiles are not listed.
 
 ## GitHub Analytics
 
+[![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarunsharma101&query=%24.public_repos&label=Public%20repositories&color=6d28d9&style=for-the-badge)](https://github.com/varunsharma101?tab=repositories)
+
 <div align="center">
 
-<a href="https://github.com/varunsharma101"><img width="49%" src="./profile/stats.svg" alt="Varun's GitHub statistics" /></a>
 <a href="https://github.com/varunsharma101"><img width="49%" src="https://streak-stats.demolab.com/?user=varunsharma101&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;ring=A78BFA&amp;fire=818CF8&amp;currStreakLabel=A78BFA" alt="Varun's GitHub contribution streak" /></a>
 
 <a href="https://github.com/varunsharma101?tab=repositories"><img width="45%" src="./profile/top-langs.svg" alt="Languages represented in public repositories" /></a>
@@ -247,7 +248,7 @@ Additional coding-platform profiles are not listed.
 
 <div align="center">
 
-![Contribution snake](https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-contribution-grid-snake.svg)
+![Contribution snake](https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-contribution-grid-snake.svg?v=1)
 
 </div>
 
