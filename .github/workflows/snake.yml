@@ -9,6 +9,7 @@ on:
     paths:
       - .github/workflows/snake.yml
       - .github/scripts/activity.py
+      - .github/scripts/keep_squares.py
 
 permissions:
   contents: write
@@ -32,6 +33,8 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark&color_snake=#bf91f3
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Slow the snake and keep contribution squares visible
+        run: python3 .github/scripts/keep_squares.py
       - name: Generate activity chart
         run: python3 .github/scripts/activity.py
         env:
