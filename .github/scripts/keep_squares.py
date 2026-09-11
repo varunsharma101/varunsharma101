@@ -93,24 +93,62 @@ def avoidance_route(free: set[tuple[int, int]]) -> list[tuple[int, int]]:
                 connected.add(neighbor)
                 queue.append(neighbor)
 
-    min_column = min(column for column, _ in connected)
-    min_row = min(row for _, row in connected)
-    max_column = max(column for column, _ in connected)
-    max_row = max(row for _, row in connected)
-    targets = []
+    reachable_inside = free & connected
+    components = []
+    remaining = set(reachable_inside)
+    while remaining:
+        component_start = min(remaining, key=lambda cell: (cell[1], cell[0]))
+        component = {component_start}
+        component_queue = deque([component_start])
+        remaining.remove(component_start)
 
-    for row in range(min_row, max_row + 1):
-        columns = range(min_column, max_column + 1)
-        if (row - min_row) % 2:
-            columns = reversed(range(min_column, max_column + 1))
-        targets.extend(
-            (column, row) for column in columns if (column, row) in connected
-        )
+        while component_queue:
+            column, row = component_queue.popleft()
+            for neighbor in (
+                (column + 1, row),
+                (column, row + 1),
+                (column - 1, row),
+                (column, row - 1),
+            ):
+                if neighbor in remaining:
+                    remaining.remove(neighbor)
+                    component.add(neighbor)
+                    component_queue.append(neighbor)
+        components.append(component)
 
-    route = [targets[0]]
-    for target in targets[1:]:
-        route.extend(shortest_path(route[-1], target, connected)[1:])
-    route.extend(shortest_path(route[-1], route[0], connected)[1:])
+    substantial_components = [component for component in components if len(component) >= 6]
+    components = substantial_components or [max(components, key=len)]
+    components.sort(key=lambda component: (-len(component), min(component)))
+    component_targets = []
+    for component in components:
+        min_column = min(column for column, _ in component)
+        min_row = min(row for _, row in component)
+        max_column = max(column for column, _ in component)
+        max_row = max(row for _, row in component)
+        targets = []
+
+        for row in range(min_row, max_row + 1):
+            columns = range(min_column, max_column + 1)
+            if (row - min_row) % 2:
+                columns = reversed(range(min_column, max_column + 1))
+            targets.extend(
+                (column, row) for column in columns if (column, row) in component
+            )
+        component_targets.append(targets)
+
+    def preferred_path(
+        start: tuple[int, int], goal: tuple[int, int]
+    ) -> list[tuple[int, int]]:
+        try:
+            return shortest_path(start, goal, free)
+        except RuntimeError:
+            return shortest_path(start, goal, connected)
+
+    route = [component_targets[0][0]]
+    for targets in component_targets:
+        for target in targets:
+            route.extend(preferred_path(route[-1], target)[1:])
+    route.extend(preferred_path(route[-1], route[0])[1:])
     return route
 
 
