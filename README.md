@@ -136,12 +136,12 @@ Separates transcription from slide generation so users can review the transcript
 
 <div align="center">
 
-<a href="https://github.com/varunsharma101?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/activity.svg?v=6" alt="Varun's contribution activity over the last 31 days" /></a>
+<a href="https://github.com/varunsharma101?tab=overview"><img width="100%" src="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/activity.svg?v=7" alt="Varun's monthly GitHub contribution activity since account creation" /></a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake-dark.svg?v=6" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake.svg?v=6" />
-  <img width="100%" alt="Purple snake moving through Varun's GitHub contribution graph" src="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake.svg?v=6" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake-dark.svg?v=7" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake.svg?v=7" />
+  <img width="100%" alt="Purple snake moving through Varun's GitHub contribution graph" src="https://raw.githubusercontent.com/varunsharma101/varunsharma101/output/github-snake.svg?v=7" />
 </picture>
 
 </div>
