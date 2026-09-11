@@ -3,7 +3,7 @@ from collections import deque
 import re
 
 
-ANIMATION_DURATION = "150000ms"
+ANIMATION_DURATION = "110000ms"
 GRID_STEP = 16
 SNAKE_SEGMENTS = 4
 STYLE_START = "/* avoid-green-start */"
