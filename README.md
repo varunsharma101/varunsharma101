@@ -62,19 +62,6 @@ AWS CDK · ECS Fargate · S3 · Glue · Athena · IAM · VPC · CI/CD · Vercel 
 
 OpenAI API · Gemini · TensorFlow · PyTorch · FAISS · PDFPlumber · LayoutParser · PaddleOCR
 
----
-
-## AI / ML Expertise
-
-| Domain | Proficiency | Details |
-| :--- | :--- | :--- |
-| LLM applications | Applied internship experience | Natural-language search, structured outputs, SQL filter generation, and two-stage candidate ranking |
-| Document intelligence | Applied internship experience | PDF extraction, OCR, layout analysis, and table processing for LLM workflows |
-| Computer vision | Applied internship experience | TensorFlow classification, data augmentation, confidence thresholds, and deployment on edge hardware |
-| AI product development | Project experience | OpenAI function calling, therapist matching, scheduling integrations, and administrative interfaces |
-
----
-
 ## Featured Projects
 
 <details open>
@@ -133,87 +120,6 @@ Separates transcription from slide generation so users can review the transcript
 
 [Browse all repositories →](https://github.com/varunsharma101?tab=repositories)
 
----
-
-## Experience
-
-### Software Development Engineer Intern · Amazon Web Services
-**June 2026 – September 2026 · Cupertino, CA**
-
-Built tooling that makes hardware telemetry processing coverage visible and actionable for engineers.
-
-- Replayed real hardware events through production rule-processing libraries to identify coverage gaps.
-- Deployed infrastructure using AWS CDK, ECS Fargate, S3, Glue, Athena, an isolated VPC, and IAM roles.
-- Integrated the pipeline with CI/CD to keep coverage generation aligned with production rule changes.
-- Built a React and Cloudscape dashboard backed by GraphQL and Athena.
-- Identified **33,000 telemetry events without matching parsing rules** and **12 unreachable configurations**.
-
-`AWS` `CDK` `ECS Fargate` `S3` `Glue` `Athena` `React` `Cloudscape` `GraphQL` `CI/CD`
-
-### AI Engineer Intern · AI Fund
-**July 2025 – May 2026 · Mountain View, CA**
-
-Built AI-assisted recruiting workflows and full-stack tools for program operations.
-
-- Developed natural-language search across approximately **20,000 candidates**, combining SQL filters with a two-stage LLM matching and reranking workflow.
-- Reduced LLM cost by **55%** and search latency from **four minutes to one minute**.
-- Built a profile ingestion pipeline using Apify, OpenAI structured outputs, and Supabase Postgres.
-- Created the Buildathon website, applicant portal, and internal review dashboard.
-
-`OpenAI API` `SQL` `React` `JavaScript` `Tailwind CSS` `Supabase` `Postgres` `Apify`
-
-### Data Validation Intern · Planck AI
-**March 2025 – July 2025 · Remote**
-
-Built document processing pipelines that extract structured data for LLM workflows.
-
-- Combined PDFPlumber, LayoutParser, and PaddleOCR to extract text, tables, and embedded images.
-- Handled scanned and table-heavy PDFs through OCR, layout analysis, and specialized table detection.
-- Created visualizations to diagnose parsing errors and verify extraction quality.
-
-`Python` `PDFPlumber` `LayoutParser` `PaddleOCR` `OCR` `Document Processing`
-
-### Artificial Intelligence & AR Project Intern · Integem
-**June 2024 – September 2024 · Cupertino, CA**
-
-Developed computer vision and AR components for robotics projects.
-
-- Retrained and deployed a lightweight TensorFlow image classifier for a robot pickup workflow.
-- Improved object recognition accuracy by approximately **10%** using targeted augmentation, confidence thresholds, and learning-rate scheduling.
-- Trained models on NVIDIA Jetson Nano and built Python AR game components for Raspberry Pi-based robots.
-
-`Python` `TensorFlow` `Computer Vision` `NVIDIA Jetson Nano` `Raspberry Pi`
-
----
-
-## Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| Academic performance | **3.9 / 4.0 GPA** at UC San Diego |
-| Provost Honors | **2023–2026** |
-| Education | B.S. Mathematics and Computer Science; minor in Cognitive Science; expected March 2027 |
-
-</div>
-
----
-
-## Certifications
-
-No certifications listed. My applied experience and academic recognition are detailed above.
-
----
-
-## Coding Profiles
-
-[![GitHub Projects](https://img.shields.io/badge/GitHub-Explore_My_Code-7957c2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/varunsharma101?tab=repositories)
-
-Additional coding-platform profiles are not listed.
-
----
-
 ## GitHub Analytics
 
 [![Public repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fvarunsharma101&query=%24.public_repos&label=Public%20repositories&color=7957c2&style=for-the-badge)](https://github.com/varunsharma101?tab=repositories)
@@ -225,18 +131,6 @@ Additional coding-platform profiles are not listed.
 <a href="https://github.com/varunsharma101?tab=repositories"><img width="45%" src="./profile/top-langs.svg" alt="Languages represented in public repositories" /></a>
 
 </div>
-
----
-
-## GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/varunsharma101"><img width="100%" src="https://github-profile-trophy-orcin-eta.vercel.app/?username=varunsharma101&amp;theme=tokyonight&amp;no-frame=true&amp;no-bg=false&amp;column=4&amp;margin-w=12&amp;margin-h=12" alt="GitHub activity trophies" /></a>
-
-</div>
-
----
 
 ## Contribution Activity
 
@@ -251,25 +145,6 @@ Additional coding-platform profiles are not listed.
 </picture>
 
 </div>
-
----
-
-## Current Focus
-
-```yaml
-learning:
-  - Algorithms, machine learning, and database systems
-building:
-  - Cloud tooling and full-stack AI applications
-exploring:
-  - Semantic search and knowledge graphs
-  - Practical LLM workflows and developer tools
-open_to:
-  - Software engineering conversations
-  - Applied AI and full-stack collaboration
-```
-
----
 
 ## Connect
 
